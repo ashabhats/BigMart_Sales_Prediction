@@ -1,0 +1,20 @@
+Hypothesis
+
+Below are some of the factors that can have an impat on the Sales(Target Variable):
+
+Store Level
+Store Location : Stroes located in population dense areas will have more sales
+Compitiors : Sales gets disrtibuted between the stroes if there are similar stroes nearby
+Marketing : Good marketing increases sales
+Ambiance: plays an important role to retain the customers
+
+Product Level
+Brand : branded products have higher sales
+Display Area: products displayed at eye catching style/place will have more sales
+
+Customer Level
+Customer Income: Customer with higher income spend more
+Family Size : Big family spends more
+
+Macro Level
+Economic conditions 
